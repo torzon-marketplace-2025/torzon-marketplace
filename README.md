@@ -4,11 +4,11 @@
 
 ## Accessing the TorZon Marketplace: Your Starting Point
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/img/opaque.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/img/opaque.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/img/gap.webp" alt="TorZon Marketplace" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/img/gap.webp" alt="TorZon Marketplace" style="max-width: 100%;"></a>
 
 This platform provides informational insights into the workings of the darkweb. We don't endorse illegal actions, nor do we receive commissions from affiliate links.
 
@@ -38,11 +38,13 @@ The **TorZon Market** is a key player in the darknet landscape, with a secure, a
 
 Remember that navigating the darknet involves inherent risks. Prioritize security, stay informed and utilize the latest **TorZon links** for a safer **TorZon marketplace** experience.
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/img/windows.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/img/popup.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/img/windows.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/img/popup.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
 
 ---
 
 ### Disclaimer:
 
 This guide is for educational purposes only. The provided information is to enhance your knowledge of darknet operations. We do not promote any illegal activities. Adhere to all applicable laws and regulations.
+
+Update:  14 September Link is now reachable online
