@@ -47,4 +47,6 @@ Remember that navigating the darknet involves inherent risks. Prioritize securit
 
 This guide is for educational purposes only. The provided information is to enhance your knowledge of darknet operations. We do not promote any illegal activities. Adhere to all applicable laws and regulations.
 
-Update:  14 September Link is now reachable online
+
+
+Update:  Thursday 18 September 2025
